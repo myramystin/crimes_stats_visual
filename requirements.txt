@@ -1,3 +1,5 @@
-dash
-pandas
+dash~=2.7.0
+pandas~=1.5.2
 plotly.express
+
+plotly~=5.11.0
